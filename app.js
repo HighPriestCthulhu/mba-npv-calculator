@@ -5,6 +5,7 @@ const SCHOOLS={
   said:   {badge:'OXFORD',   school:'Saïd Business School',                prog:'MBA · 1-year programme · 2026 entry',          tuition:88800,  dur:1,currency:'£'},
   lbs:    {badge:'LBS',      school:'London Business School',               prog:'MBA · 15–21 month programme · 2026 intake',    tuition:123950, dur:1,currency:'£'},
   judge:  {badge:'CAMBRIDGE',school:'Cambridge Judge Business School',      prog:'MBA · 1-year programme · Sept 2026',           tuition:80000,  dur:1,currency:'£'},
+  warwick:{badge:'WARWICK',  school:'Warwick Business School',              prog:'MBA · 1-year programme · Sept 2026',           tuition:59500,  dur:1,currency:'£'},
   insead: {badge:'INSEAD',   school:'INSEAD',                               prog:'MBA · 10-month programme · Aug 2026/Jan 2027', tuition:109860, dur:1,currency:'€'},
   hbs:    {badge:'HBS',      school:'Harvard Business School',              prog:'MBA · 2-year programme · Class of 2027',       tuition:163460, dur:2,currency:'$'},
   wharton:{badge:'WHARTON',  school:'The Wharton School',                   prog:'MBA · 2-year programme · 2026-27',             tuition:186016, dur:2,currency:'$'},

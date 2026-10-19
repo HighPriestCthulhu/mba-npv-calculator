@@ -16,7 +16,7 @@ investment. It compares an MBA career path against staying put and shows:
 | --- | --- |
 | ![Harvard Business School preset with the Bull scenario](docs/screenshots/desktop-harvard-bull.png) | <img src="docs/screenshots/mobile-default.png" alt="Calculator on a narrow mobile screen" width="200"> |
 
-Comes with presets for several business schools (Saïd, LBS, Judge, INSEAD, Harvard,
+Comes with presets for several business schools (Saïd, LBS, Judge, Warwick, INSEAD, Harvard,
 Wharton, Stanford, HEC Paris) and Base, Bull, Bear and No-lift scenarios. Every input
 is a slider, and you can click the school name and badge in the header to edit them.
 
